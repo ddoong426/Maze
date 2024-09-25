@@ -1,0 +1,3 @@
+C:/Users/mom11/Downloads/Take This human/새 폴더/out/build/x64-Release/CMakeFiles/Temporary.dir
+C:/Users/mom11/Downloads/Take This human/새 폴더/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/mom11/Downloads/Take This human/새 폴더/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
